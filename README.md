@@ -30,7 +30,7 @@ Steps
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/aadhar-qr-based-verification.git
+git clone https://github.com/cardoz100/aadhar-qr-based-verification.git
 Navigate to the project directory:
 bash
 Copy code
